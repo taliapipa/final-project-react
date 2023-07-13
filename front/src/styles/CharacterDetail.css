@@ -1,0 +1,18 @@
+.div-detail{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 40px;
+}
+
+.div-detail h2{
+    text-transform: uppercase;
+    font-family: Helvetica;
+    margin-bottom: 20px;
+}
+
+.p-type{
+    text-transform: uppercase;
+
+}
