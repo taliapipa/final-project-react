@@ -1,19 +1,10 @@
 {
   "users": [
     {
-      "email": "user@user.com",
-      "password": "$2a$10$LmvgjA36UwAuU6Q.nnsSyeJqOBKN8RKtlN9ssXGfY/JMmfZFfXz4G",
-      "id": 1
-    },
-    {
-      "email": "usuario@usuario.com",
-      "password": "$2a$10$mgQH4V8DdagZzeV.b4T1guI0Q44lOIh4arg0cbNOHxo1XuIQQldNm",
-      "id": 2
-    },
-    {
       "email": "taliaps97@gmail.com",
-      "password": "$2a$10$yM8XGNi4.ZgTl7DjXDx1Ierag2RAn2zeIBP.raLhJxqcwj4b4Oj1W",
-      "id": 3
+      "password": "$2a$10$ChnhkfrgIjeMCSRo5Hy61OJctPWlXQC83G1AILSC4XAkQk4nQ8fpW",
+      "name": "Talia",
+      "id": 1
     }
   ]
 }

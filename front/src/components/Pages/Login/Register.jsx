@@ -23,6 +23,12 @@ return (
         id='email'
         {...register("email", { required: true })}
         />
+         <label htmlFor='name'>Name:</label>
+        <input
+        type='text'
+        id='name'
+        {...register("name", { required: true })}
+        />
         <label htmlFor='password'>Password:</label>
         <input
         type='password'

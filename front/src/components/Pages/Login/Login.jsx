@@ -17,6 +17,7 @@ const { register, handleSubmit } = useForm();
     console.log(res.data);
     localStorage.setItem("token", res.data.accessToken)
     localStorage.setItem("user", res.data.user.email)
+    localStorage.setItem("name", res.data.user.name)
     setJwt(res.data.accessToken)
     navigate("/home")
     })

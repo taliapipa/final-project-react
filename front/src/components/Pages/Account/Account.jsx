@@ -1,9 +1,13 @@
-const Account =()=>{
-    return (
-        <div>
-        Account Works 
-        </div>
-    )
-}
+import '../Account/Account.css'
 
-export default Account
+const Account = () => {
+const name = localStorage.getItem("name");
+
+return (
+    <div className="div-account">
+    <h1>Welcome, {name}!</h1>
+    </div>
+);
+};
+
+export default Account;
