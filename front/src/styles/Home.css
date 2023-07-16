@@ -22,3 +22,19 @@
 .carousel-button{
     width: 10%;
 }
+
+.div-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 40px;
+}
+
+.title{
+    text-align: center;
+}
+
+.description{
+    text-align: justify;
+}
